@@ -1,3 +1,3 @@
 # Class
 
-[WIP] DO NOT USE | IN PRODUCTION
+not for use, just cool project i made long ways ago
